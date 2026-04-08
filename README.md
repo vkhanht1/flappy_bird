@@ -51,4 +51,3 @@ The project is designed as a beginner-friendly game to practice:
 * Add difficulty levels
 * Store high scores
 
----
