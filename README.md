@@ -50,4 +50,3 @@ The project is designed as a beginner-friendly game to practice:
 * Improve graphics and animations
 * Add difficulty levels
 * Store high scores
-
